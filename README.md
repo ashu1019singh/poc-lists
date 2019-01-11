@@ -1,6 +1,6 @@
 # poc-lists
   
-  Plain jdbc with java  
+    Plain jdbc with java  
 
     Spring with jdbc template  
     Spring with maven with xml  
